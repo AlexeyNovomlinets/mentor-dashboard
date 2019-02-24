@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: rgb(221, 221, 221);
+}
+
+h2 {
+  font-family: 'Muli', 'Arial', sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #340000;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.app h1 {
+  display: flex;
+  margin-bottom: 80px;
+  font-family: 'Muli', 'Arial', sans-serif;
+  text-transform: uppercase;
+  color: #002134;
+}
+
+.app img {
+  display: flex;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.app label {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0 5px 0;
+  font-family: 'Muli', 'Arial', sans-serif;
+  font-size: 22px;
+}
+
+.app input {
+  display: flex;
+  width: 180px;
+  height: 25px;
+  margin: 10px auto;
+  padding-left: 10px;
+  font-family: 'Muli', 'Arial', sans-serif;
+  font-size: 14px;
+  background: rgb(240, 240, 240);
+  border: 1px solid rgb(145, 145, 145);
+  border-radius: 4px;
+}
+
+.app input:focus {
+  background: rgb(255, 255, 255);
+  outline: none;
+}
+
+.app button {
+  display: flex;
+  justify-content: center;
+  width: 60px;
+  height: 25px;
+  margin: 10px auto;
+  font-family: 'Muli', 'Arial', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #002134;
+}
+
+.app p {
+  display: flex;
+  justify-content: center;
+  width: 160px;
+  margin: 10px auto;
+  font-family: 'Muli', 'Arial', sans-serif;
+  font-size: 12px;
+  text-align: center;
+  color: #500000;
+}

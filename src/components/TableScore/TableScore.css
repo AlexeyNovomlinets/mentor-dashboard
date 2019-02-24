@@ -1,0 +1,77 @@
+.timeGone {
+  background-color: #a61c00;
+}
+
+.checked {
+  background-color: #d9ead3;
+}
+
+.checking {
+  background-color: #ea9999;
+}
+
+.progress {
+  background-color: #fff2cc;
+}
+
+.todo {
+  background-color: #cccccc;
+}
+
+.tableScore {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.tableScore h2 {
+  color: #002134;
+}
+
+.tableScore input {
+  width: 200px;
+  margin: 10px auto 20px auto;
+}
+
+.tableScore table {
+  font-family: 'Muli', 'Arial', sans-serif;
+  font-size: 14px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border: 1px solid #919191;
+  border-radius: 4px;
+}
+
+.tableScore table th {
+  width: 150px;
+  height: 20px;
+}
+
+.tableScore table td:first-child {
+  width: 230px;
+  height: 20px;
+}
+
+.tableScore a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.tableScore a:hover {
+  font-size: 16px;
+  font-weight: 800px;
+  text-decoration: none;
+}
+
+.tableScore a:active {
+  text-decoration: none;
+}
+
+.tableScore a:visited {
+  text-decoration: none;
+}
+
+.tableScore p {
+  width: 240px;
+}

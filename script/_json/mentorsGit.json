@@ -1,0 +1,878 @@
+[
+  {
+    "name": "Sergey Maksimuk",
+    "gitName": "maximuk",
+    "gitLink": "https://github.com/maximuk",
+    "city": "Брест"
+  },
+  {
+    "name": "Aliaksandr Zayats",
+    "gitName": "alex-zayats",
+    "gitLink": "https://github.com/alex-zayats",
+    "city": "Гомель"
+  },
+  {
+    "name": "Akiaksandr Zahorski",
+    "gitName": "AliaksandrZahorski",
+    "gitLink": "https://github.com/AliaksandrZahorski",
+    "city": "Гомель"
+  },
+  {
+    "name": "Siarhei Prystauka",
+    "gitName": "Pristavka",
+    "gitLink": "https://github.com/Pristavka",
+    "city": "Гомель"
+  },
+  {
+    "name": "Dzianis Pryshchep",
+    "gitName": "dpryshchep",
+    "gitLink": "https://github.com/dpryshchep",
+    "city": "Гомель"
+  },
+  {
+    "name": "Aliaksandr Klimau",
+    "gitName": "quantum-noise",
+    "gitLink": "https://github.com/quantum-noise",
+    "city": "Гомель"
+  },
+  {
+    "name": "Artsiom Haurylin",
+    "gitName": "ahaurylin",
+    "gitLink": "https://github.com/ahaurylin",
+    "city": "Гомель"
+  },
+  {
+    "name": "Elena Grebenchuk",
+    "gitName": "elgrebenchuk",
+    "gitLink": "https://github.com/elgrebenchuk",
+    "city": "Гомель"
+  },
+  {
+    "name": "Andrei Furs",
+    "gitName": "yganda",
+    "gitLink": "https://github.com/yganda",
+    "city": "Гомель"
+  },
+  {
+    "name": "Dzianis Bunchanka",
+    "gitName": "DenisBun",
+    "gitLink": "https://github.com/DenisBun",
+    "city": "Гомель"
+  },
+  {
+    "name": "Rem Apasov",
+    "gitName": "remapasov",
+    "gitLink": "https://github.com/remapasov",
+    "city": "Гомель"
+  },
+  {
+    "name": "Tatsiana Khinevich",
+    "gitName": "PAM",
+    "gitLink": "TatsianaKhinevich-EPAM",
+    "city": "Гродно"
+  },
+  {
+    "name": "Andrei Zhuk",
+    "gitName": "Andrei-Zhuk",
+    "gitLink": "https://github.com/Andrei-Zhuk",
+    "city": "Минск"
+  },
+  {
+    "name": "Mikita Zhuikou",
+    "gitName": "Nikitzu",
+    "gitLink": "https://github.com/Nikitzu",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksei Zayats",
+    "gitName": "alex-mnsk",
+    "gitLink": "https://github.com/alex-mnsk",
+    "city": "Минск"
+  },
+  {
+    "name": "Pavel Zaletski",
+    "gitName": "PavelZaletski",
+    "gitLink": "https://github.com/PavelZaletski",
+    "city": "Минск"
+  },
+  {
+    "name": "Yana Zaitsava",
+    "gitName": "yana95",
+    "gitLink": "https://github.com/yana95",
+    "city": "Минск"
+  },
+  {
+    "name": "Pavel Yukhnevich",
+    "gitName": "tibmt",
+    "gitLink": "https://github.com/tibmt",
+    "city": "Минск"
+  },
+  {
+    "name": "Anton Yatskevich",
+    "gitName": "a-yatskevich",
+    "gitLink": "https://github.com/a-yatskevich",
+    "city": "Минск"
+  },
+  {
+    "name": "Viktoriya Vorozhun",
+    "gitName": "ViktoriyaVorozhun",
+    "gitLink": "https://github.com/ViktoriyaVorozhun",
+    "city": "Минск"
+  },
+  {
+    "name": "Nikolai Verbitskii",
+    "gitName": "NikolaiVerbitskii",
+    "gitLink": "https://github.com/NikolaiVerbitskii",
+    "city": "Минск"
+  },
+  {
+    "name": "Igor Tsialiuk",
+    "gitName": "sijlver",
+    "gitLink": "https://github.com/sijlver",
+    "city": "Минск"
+  },
+  {
+    "name": "MIKITA TRUKHANAVETS",
+    "gitName": "ntrukhanovets",
+    "gitLink": "https://github.com/ntrukhanovets",
+    "city": "Минск"
+  },
+  {
+    "name": "Kiryl Tofan",
+    "gitName": "KVtofan",
+    "gitLink": "https://github.com/KVtofan",
+    "city": "Минск"
+  },
+  {
+    "name": "Katsiaryna Tatarynovich",
+    "gitName": "etatarinovich18",
+    "gitLink": "https://github.com/etatarinovich18",
+    "city": "Минск"
+  },
+  {
+    "name": "Uladzislau Tarasenka",
+    "gitName": "einfachvlad/",
+    "gitLink": "https://github.com/einfachvlad/",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksandr Tachko",
+    "gitName": "aliaksandrT",
+    "gitLink": "https://github.com/aliaksandrT",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzianis Sushchenya",
+    "gitName": "sushchenja",
+    "gitLink": "https://github.com/sushchenja",
+    "city": "Минск"
+  },
+  {
+    "name": "Daniil Suleiman",
+    "gitName": "sulemanof",
+    "gitLink": "https://github.com/sulemanof",
+    "city": "Минск"
+  },
+  {
+    "name": "Mikita Subbot",
+    "gitName": "nsubbot",
+    "gitLink": "https://github.com/nsubbot",
+    "city": "Минск"
+  },
+  {
+    "name": "Anton Stsiapanau",
+    "gitName": "stpnvntn",
+    "gitLink": "https://github.com/stpnvntn",
+    "city": "Минск"
+  },
+  {
+    "name": "Alexander Spesivtsev",
+    "gitName": "shuspes",
+    "gitLink": "https://github.com/shuspes",
+    "city": "Минск"
+  },
+  {
+    "name": "Mikalai Sokarau",
+    "gitName": "mikalai-sokarau",
+    "gitLink": "https://github.com/mikalai-sokarau",
+    "city": "Минск"
+  },
+  {
+    "name": "Kseniya Smorshchek",
+    "gitName": "KseniyaSmorshchek",
+    "gitLink": "https://github.com/KseniyaSmorshchek",
+    "city": "Минск"
+  },
+  {
+    "name": "Arseni Shynkarenka",
+    "gitName": "arhigod",
+    "gitLink": "https://github.com/arhigod",
+    "city": "Минск"
+  },
+  {
+    "name": "Andrei Shyliahin",
+    "gitName": "Atzkdeff",
+    "gitLink": "https://github.com/Atzkdeff",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzianis Shutsikau",
+    "gitName": "Shutya",
+    "gitLink": "https://github.com/Shutya",
+    "city": "Минск"
+  },
+  {
+    "name": "Klim Shuplenkou",
+    "gitName": "Klim711",
+    "gitLink": "https://github.com/Klim711",
+    "city": "Минск"
+  },
+  {
+    "name": "Elena Shokhan",
+    "gitName": "ElenaShokhanEPAM",
+    "gitLink": "https://github.com/ElenaShokhanEPAM",
+    "city": "Минск"
+  },
+  {
+    "name": "Andrei Shelenhouski",
+    "gitName": "manuminsk",
+    "gitLink": "https://github.com/manuminsk",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzianis Sheka",
+    "gitName": "davojta",
+    "gitLink": "https://github.com/davojta",
+    "city": "Минск"
+  },
+  {
+    "name": "Yahor Sheinikau",
+    "gitName": "Naooki",
+    "gitLink": "https://github.com/Naooki",
+    "city": "Минск"
+  },
+  {
+    "name": "Tsikhan Shcharbakou",
+    "gitName": "forkollaider",
+    "gitLink": "https://github.com/forkollaider",
+    "city": "Минск"
+  },
+  {
+    "name": "Mikalai Shchakatsikhin",
+    "gitName": "Hirurgo",
+    "gitLink": "https://github.com/Hirurgo",
+    "city": "Минск"
+  },
+  {
+    "name": "Anton Sharapa",
+    "gitName": "asharapa",
+    "gitLink": "https://github.com/asharapa",
+    "city": "Минск"
+  },
+  {
+    "name": "Kiryl Shaliapin",
+    "gitName": "CyrilShalyapin",
+    "gitLink": "https://github.com/CyrilShalyapin",
+    "city": "Минск"
+  },
+  {
+    "name": "Illia Sauchuk",
+    "gitName": "IlyaLisitsin",
+    "gitLink": "https://github.com/IlyaLisitsin",
+    "city": "Минск"
+  },
+  {
+    "name": "Ekaterina Sanko",
+    "gitName": "katya-sanko",
+    "gitLink": "https://github.com/katya-sanko",
+    "city": "Минск"
+  },
+  {
+    "name": "Yuliya Samuilik",
+    "gitName": "yulia9",
+    "gitLink": "https://github.com/yulia9",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzmitry Samuilik",
+    "gitName": "Sambl4",
+    "gitLink": "https://github.com/Sambl4",
+    "city": "Минск"
+  },
+  {
+    "name": "Yauheni Rutkouski",
+    "gitName": "erutkovsky",
+    "gitLink": "https://github.com/erutkovsky",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksandr Rudzin",
+    "gitName": "RudikAleksandr",
+    "gitLink": "https://github.com/RudikAleksandr",
+    "city": "Минск"
+  },
+  {
+    "name": "Mikita Rudy",
+    "gitName": "NikitaRudy",
+    "gitLink": "https://github.com/NikitaRudy",
+    "city": "Минск"
+  },
+  {
+    "name": "Andres Rios",
+    "gitName": "rianby64",
+    "gitLink": "https://github.com/rianby64",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzianis Reznik",
+    "gitName": "zianisreznik/",
+    "gitLink": "http://github.com/dzianisreznik/",
+    "city": "Минск"
+  },
+  {
+    "name": "Artsiom Reutovich",
+    "gitName": "Xelsoid",
+    "gitLink": "https://github.com/Xelsoid",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksandr Razumovich",
+    "gitName": "razumovich/",
+    "gitLink": "https://github.com/razumovich/",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzmitry Ramaniuk",
+    "gitName": "DmitryRomaniuk",
+    "gitLink": "https://github.com/DmitryRomaniuk",
+    "city": "Минск"
+  },
+  {
+    "name": "Yauheni Ralko",
+    "gitName": "yralko",
+    "gitLink": "https://github.com/yralko",
+    "city": "Минск"
+  },
+  {
+    "name": "Anastasiya Pryvalava",
+    "gitName": "anastasiaprivalova",
+    "gitLink": "https://github.com/anastasiaprivalova",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzmitry Prudnikau",
+    "gitName": "diprudnikov",
+    "gitLink": "https://github.com/diprudnikov",
+    "city": "Минск"
+  },
+  {
+    "name": "Hanna Pratasevich",
+    "gitName": "Anik188",
+    "gitLink": "https://github.com/Anik188",
+    "city": "Минск"
+  },
+  {
+    "name": "Artsiom Piakhota",
+    "gitName": "LithiumFallen",
+    "gitLink": "https://github.com/LithiumFallen",
+    "city": "Минск"
+  },
+  {
+    "name": "Yauheni Pasiukevich",
+    "gitName": "pasyukevich",
+    "gitLink": "https://github.com/pasyukevich",
+    "city": "Минск"
+  },
+  {
+    "name": "Kiryl Panou",
+    "gitName": "kirillpanov",
+    "gitLink": "https://github.com/kirillpanov",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzmitry Panamarenka",
+    "gitName": "dzmitrypanamarenka",
+    "gitLink": "https://github.com/dzmitrypanamarenka",
+    "city": "Минск"
+  },
+  {
+    "name": "Andrei Palchys",
+    "gitName": "apalchys",
+    "gitLink": "https://github.com/apalchys",
+    "city": "Минск"
+  },
+  {
+    "name": "Volha Paddubka",
+    "gitName": "OlgaPoddubko",
+    "gitLink": "https://github.com/OlgaPoddubko",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksandr Novik",
+    "gitName": "AlexNo",
+    "gitLink": "https://github.com/AlexNo",
+    "city": "Минск"
+  },
+  {
+    "name": "Yana Niaronskaya",
+    "gitName": "YanaNeronskaya",
+    "gitLink": "https://github.com/YanaNeronskaya",
+    "city": "Минск"
+  },
+  {
+    "name": "Natalya Nekazakova",
+    "gitName": "natashanekazakova",
+    "gitLink": "https://github.com/natashanekazakova",
+    "city": "Минск"
+  },
+  {
+    "name": "Mikhail Naharayeu",
+    "gitName": "MikhailLU",
+    "gitLink": "https://github.com/MikhailLU",
+    "city": "Минск"
+  },
+  {
+    "name": "Maryia Nabzdorava",
+    "gitName": "Maryia-N-N",
+    "gitLink": "https://github.com/Maryia-N-N",
+    "city": "Минск"
+  },
+  {
+    "name": "Arif Mustafazade",
+    "gitName": "mustafazadeAR",
+    "gitLink": "https://github.com/mustafazadeAR",
+    "city": "Минск"
+  },
+  {
+    "name": "Barys Marukhin",
+    "gitName": "barysmarukhin",
+    "gitLink": "https://github.com/barysmarukhin",
+    "city": "Минск"
+  },
+  {
+    "name": "Andrei Markovich",
+    "gitName": "themarkmarrone",
+    "gitLink": "https://github.com/themarkmarrone",
+    "city": "Минск"
+  },
+  {
+    "name": "Volha Mardvilka",
+    "gitName": "olgamardvilko",
+    "gitLink": "https://github.com/olgamardvilko",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksandr Mamonenka",
+    "gitName": "AliaksandrMamonenka",
+    "gitLink": "https://github.com/AliaksandrMamonenka",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksei Makas",
+    "gitName": "Muskos",
+    "gitLink": "https://github.com/Muskos",
+    "city": "Минск"
+  },
+  {
+    "name": "Artsiom Lykau",
+    "gitName": "lykovartem",
+    "gitLink": "https://github.com/lykovartem",
+    "city": "Минск"
+  },
+  {
+    "name": "Aleh Lipski",
+    "gitName": "lipskiy-aleh",
+    "gitLink": "https://github.com/lipskiy-aleh",
+    "city": "Минск"
+  },
+  {
+    "name": "Andrei Liaukou",
+    "gitName": "liaukou",
+    "gitLink": "https://github.com/liaukou",
+    "city": "Минск"
+  },
+  {
+    "name": "Andrei Lenkou",
+    "gitName": "LenkouAndrei",
+    "gitLink": "https://github.com/LenkouAndrei",
+    "city": "Минск"
+  },
+  {
+    "name": "Ron Lavit",
+    "gitName": "Lavitr",
+    "gitLink": "https://github.com/Lavitr",
+    "city": "Минск"
+  },
+  {
+    "name": "Artsiom Latyshau",
+    "gitName": "artemlatyshev",
+    "gitLink": "https://github.com/artemlatyshev",
+    "city": "Минск"
+  },
+  {
+    "name": "Viachaslau Latushkin",
+    "gitName": "viachaslau-latushkin",
+    "gitLink": "https://github.com/viachaslau-latushkin",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksandr Kuzniatsou",
+    "gitName": "AliaksandrKuzniatsou",
+    "gitLink": "https://github.com/AliaksandrKuzniatsou",
+    "city": "Минск"
+  },
+  {
+    "name": "Pavel Kuzniatsou",
+    "gitName": "PavelKuzniatsou",
+    "gitLink": "https://github.com/PavelKuzniatsou",
+    "city": "Минск"
+  },
+  {
+    "name": "Bahdan Kutas",
+    "gitName": "AgentKB",
+    "gitLink": "https://github.com/AgentKB",
+    "city": "Минск"
+  },
+  {
+    "name": "Viktar Kurbatski",
+    "gitName": "Woozzone",
+    "gitLink": "https://github.com/Woozzone",
+    "city": "Минск"
+  },
+  {
+    "name": "Alexandra Kukolca",
+    "gitName": "KukolcaAlexandra",
+    "gitLink": "https://github.com/KukolcaAlexandra",
+    "city": "Минск"
+  },
+  {
+    "name": "artsiom kukharev",
+    "gitName": "xeontem",
+    "gitLink": "https://github.com/xeontem",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzmitry Kudla",
+    "gitName": "Linus2228",
+    "gitLink": "https://github.com/Linus2228",
+    "city": "Минск"
+  },
+  {
+    "name": "Denis Kravchenko",
+    "gitName": "Shank111",
+    "gitLink": "https://github.com/Shank111",
+    "city": "Минск"
+  },
+  {
+    "name": "ALIAKSEI KRAUCHANKA",
+    "gitName": "aliakseikrauchanka",
+    "gitLink": "https://github.com/aliakseikrauchanka",
+    "city": "Минск"
+  },
+  {
+    "name": "Vitali Krasnou",
+    "gitName": "error404as/",
+    "gitLink": "https://github.com/error404as/",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksandr Krasnou",
+    "gitName": "aliaksandrkrasnou",
+    "gitLink": "https://github.com/aliaksandrkrasnou",
+    "city": "Минск"
+  },
+  {
+    "name": "Vladislav Kovaliov",
+    "gitName": "vladislavkovaliov/",
+    "gitLink": "https://github.com/vladislavkovaliov/",
+    "city": "Минск"
+  },
+  {
+    "name": "Sergeh Korotkin",
+    "gitName": "korotkin",
+    "gitLink": "https://github.com/korotkin",
+    "city": "Минск"
+  },
+  {
+    "name": "Alena Korachkina",
+    "gitName": "Papialoushka",
+    "gitLink": "https://github.com/Papialoushka",
+    "city": "Минск"
+  },
+  {
+    "name": "Viktoryia Klimenka",
+    "gitName": "candentira",
+    "gitLink": "https://github.com/candentira",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksandr Kleshchukevich",
+    "gitName": "sleepwalky",
+    "gitLink": "https://github.com/sleepwalky",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksei Khlebnikau",
+    "gitName": "FallenBY1",
+    "gitLink": "https://github.com/FallenBY1",
+    "city": "Минск"
+  },
+  {
+    "name": "Artur Kazlouski",
+    "gitName": "arturminsksum",
+    "gitLink": "https://github.com/arturminsksum",
+    "city": "Минск"
+  },
+  {
+    "name": "Maryna Kavetskaya",
+    "gitName": "shparkivozhyk",
+    "gitLink": "https://github.com/shparkivozhyk",
+    "city": "Минск"
+  },
+  {
+    "name": "Mikalai Kavaliou",
+    "gitName": "Nikkov17",
+    "gitLink": "https://github.com/Nikkov17",
+    "city": "Минск"
+  },
+  {
+    "name": "Yana Karotkina",
+    "gitName": "yanaSelin",
+    "gitLink": "https://github.com/yanaSelin",
+    "city": "Минск"
+  },
+  {
+    "name": "Katsiaryna Karanets",
+    "gitName": "katekaranets",
+    "gitLink": "https://github.com/katekaranets",
+    "city": "Минск"
+  },
+  {
+    "name": "Elizaveta Ivashkova",
+    "gitName": "ivashkovaliza",
+    "gitLink": "https://github.com/ivashkovaliza",
+    "city": "Минск"
+  },
+  {
+    "name": "Alena Hrytsuk",
+    "gitName": "HeleneGritsuk",
+    "gitLink": "https://github.com/HeleneGritsuk",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzmitry Hrachou",
+    "gitName": "falizyer",
+    "gitLink": "https://github.com/falizyer",
+    "city": "Минск"
+  },
+  {
+    "name": "Hanna Hrabianiuk",
+    "gitName": "AnnaGrebenyuk",
+    "gitLink": "https://github.com/AnnaGrebenyuk",
+    "city": "Минск"
+  },
+  {
+    "name": "Yauheni Hladki",
+    "gitName": "evgladkiy",
+    "gitLink": "https://github.com/evgladkiy",
+    "city": "Минск"
+  },
+  {
+    "name": "Yauheni Harokh",
+    "gitName": "EvgeniiGrh",
+    "gitLink": "https://github.com/EvgeniiGrh",
+    "city": "Минск"
+  },
+  {
+    "name": "Ilya Hancharyk",
+    "gitName": "AmsterGet",
+    "gitLink": "https://github.com/AmsterGet",
+    "city": "Минск"
+  },
+  {
+    "name": "Yuliya Haluza",
+    "gitName": "yuliaHope",
+    "gitLink": "https://github.com/yuliaHope",
+    "city": "Минск"
+  },
+  {
+    "name": "Konstantin Grigorchuk",
+    "gitName": "PredokMiF",
+    "gitLink": "https://github.com/PredokMiF",
+    "city": "Минск"
+  },
+  {
+    "name": "Valeri Gorobets",
+    "gitName": "valeraGorobets/",
+    "gitLink": "https://github.com/valeraGorobets/",
+    "city": "Минск"
+  },
+  {
+    "name": "Pavel Glebov",
+    "gitName": "pavelglebov",
+    "gitLink": "https://github.com/pavelglebov",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksandr Fiodarau",
+    "gitName": "aliaksandrfiodarau",
+    "gitLink": "https://github.com/aliaksandrfiodarau",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzianis Dashkevich",
+    "gitName": "DenisDashkevich",
+    "gitLink": "https://github.com/DenisDashkevich",
+    "city": "Минск"
+  },
+  {
+    "name": "Siarhei Churylin",
+    "gitName": "Sergey-Churilin",
+    "gitLink": "https://github.com/Sergey-Churilin",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzmitry Chuchva",
+    "gitName": "dzmitry-chuchva",
+    "gitLink": "https://github.com/dzmitry-chuchva",
+    "city": "Минск"
+  },
+  {
+    "name": "Yauhen Chaika",
+    "gitName": "EugeneCh",
+    "gitLink": "https://github.com/EugeneCh",
+    "city": "Минск"
+  },
+  {
+    "name": "Viktoryia Budzionnaya",
+    "gitName": "elkinny",
+    "gitLink": "https://github.com/elkinny",
+    "city": "Минск"
+  },
+  {
+    "name": "Denis Bozhyk",
+    "gitName": "den-bozhyk",
+    "gitLink": "https://github.com/den-bozhyk",
+    "city": "Минск"
+  },
+  {
+    "name": "Katsiaryna Birulia",
+    "gitName": "kbirulia",
+    "gitLink": "https://github.com/kbirulia",
+    "city": "Минск"
+  },
+  {
+    "name": "Denis Bezak",
+    "gitName": "BezakDenis",
+    "gitLink": "https://github.com/BezakDenis",
+    "city": "Минск"
+  },
+  {
+    "name": "Anton Bely",
+    "gitName": "ToshaBely",
+    "gitLink": "https://github.com/ToshaBely",
+    "city": "Минск"
+  },
+  {
+    "name": "Natallia Belavusava",
+    "gitName": "belousova-natallia",
+    "gitLink": "https://github.com/belousova-natallia",
+    "city": "Минск"
+  },
+  {
+    "name": "Vera Barysava",
+    "gitName": "TomasSpring",
+    "gitLink": "https://github.com/TomasSpring",
+    "city": "Минск"
+  },
+  {
+    "name": "Dmitri Bardt",
+    "gitName": "ximet",
+    "gitLink": "https://github.com/ximet",
+    "city": "Минск"
+  },
+  {
+    "name": "Tatsiana Bakhmatovich",
+    "gitName": "Tanya-Bakhmatovich",
+    "gitLink": "https://github.com/Tanya-Bakhmatovich",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzmitry Bahachuk",
+    "gitName": "sintet",
+    "gitLink": "https://github.com/sintet",
+    "city": "Минск"
+  },
+  {
+    "name": "Palina Babrounik",
+    "gitName": "PolinaBobrovnik",
+    "gitLink": "https://github.com/PolinaBobrovnik",
+    "city": "Минск"
+  },
+  {
+    "name": "Siarhei Ausianik",
+    "gitName": "SergeyShatter",
+    "gitLink": "https://github.com/SergeyShatter",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksei Astafyeu",
+    "gitName": "tr3v3r",
+    "gitLink": "https://github.com/tr3v3r",
+    "city": "Минск"
+  },
+  {
+    "name": "Uladzimir Artsemenka",
+    "gitName": "vinfinit",
+    "gitLink": "https://github.com/vinfinit",
+    "city": "Минск"
+  },
+  {
+    "name": "Aliaksandr Amialkovich",
+    "gitName": "amelk9n",
+    "gitLink": "https://github.com/amelk9n",
+    "city": "Минск"
+  },
+  {
+    "name": "Dzmitry Aliaksandrau",
+    "gitName": "alidzm",
+    "gitLink": "https://github.com/alidzm",
+    "city": "Минск"
+  },
+  {
+    "name": "Yuliia Alaieva",
+    "gitName": "JuliaAlaeva",
+    "gitLink": "https://github.com/JuliaAlaeva",
+    "city": "Минск"
+  },
+  {
+    "name": "Viktoryia Verasava",
+    "gitName": "ViktoryiaVerasava",
+    "gitLink": "https://github.com/ViktoryiaVerasava",
+    "city": "Могилев"
+  },
+  {
+    "name": "Tatsiana Stsepchanka",
+    "gitName": "stsepchanka",
+    "gitLink": "https://github.com/stsepchanka",
+    "city": "Могилев"
+  },
+  {
+    "name": "Aliaksandr Kazhamiaka",
+    "gitName": "mkinitcpio",
+    "gitLink": "https://github.com/mkinitcpio",
+    "city": "Могилев"
+  },
+  {
+    "name": "Maksim Kantsavy",
+    "gitName": "clainatomi-zero",
+    "gitLink": "https://github.com/clainatomi-zero",
+    "city": "Могилев"
+  },
+  {
+    "name": "Aliaksandr Famchankou",
+    "gitName": "famchankou",
+    "gitLink": "https://github.com/famchankou",
+    "city": "Могилев"
+  }
+]

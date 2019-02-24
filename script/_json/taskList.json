@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Code Jam \"CV\"",
+    "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-cv.md",
+    "status": "Checked"
+  },
+  {
+    "name": "Code Jam \"CoreJS\"",
+    "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-corejs.md",
+    "status": "Checked"
+  },
+  {
+    "name": "Code Jam \"DOM, DOM Events\"",
+    "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-notification.md",
+    "status": "Checked"
+  },
+  {
+    "name": "Markup #1",
+    "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-2018q3.md",
+    "status": "Checking"
+  },
+  {
+    "name": "RS Activist -",
+    "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/rs-school-activist.md",
+    "status": "In Progress"
+  },
+  {
+    "name": "YouTube",
+    "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/youtube.md",
+    "status": "Checking"
+  },
+  {
+    "name": "CodeJam \"Scoreboard\"",
+    "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-scoreboard.md",
+    "status": "Checking"
+  },
+  {
+    "name": "Game",
+    "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/game.md",
+    "status": "In Progress"
+  },
+  {
+    "name": "Course work",
+    "link": "",
+    "status": "ToDo"
+  }
+]
