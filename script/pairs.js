@@ -13,6 +13,7 @@ const getMentorsGit = (sheet) => {
       const gitName = mentor['GitHub'].split('');
       newMentor['name'] = mentor['Name'] + ' ' + mentor['Surname'];
       gitName.splice(0, 19);
+      if (gitName[gitName.length - 1] === '/') gitName.splice(-1, 1);
       newMentor['gitName'] = gitName.join('');
       newMentor['gitLink'] = mentor['GitHub'];
       newMentor['city'] = mentor['City'];
